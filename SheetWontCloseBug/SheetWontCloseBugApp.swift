@@ -1,7 +1,10 @@
 // there is a bug
 // if you tap "Open Sheet"
 // then tap "Select Day"
-
+// then tap "Tap to Dismiss"
+// the sheet will not close
+// note that this bug doesn't occur when running in Simulator
+// it will only happen when running on a device.
 
 import SwiftUI
 
