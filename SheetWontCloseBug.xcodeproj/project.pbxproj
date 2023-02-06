@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		BAED80D12991C22E0087EDCC /* SheetWontCloseBugApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAED80D02991C22E0087EDCC /* SheetWontCloseBugApp.swift */; };
-		BAED80D32991C22E0087EDCC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAED80D22991C22E0087EDCC /* ContentView.swift */; };
 		BAED80D52991C22F0087EDCC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAED80D42991C22F0087EDCC /* Assets.xcassets */; };
 		BAED80D82991C22F0087EDCC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAED80D72991C22F0087EDCC /* Preview Assets.xcassets */; };
 		BAED80E22991C22F0087EDCC /* SheetWontCloseBugTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAED80E12991C22F0087EDCC /* SheetWontCloseBugTests.swift */; };
@@ -36,7 +35,6 @@
 /* Begin PBXFileReference section */
 		BAED80CD2991C22E0087EDCC /* SheetWontCloseBug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SheetWontCloseBug.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAED80D02991C22E0087EDCC /* SheetWontCloseBugApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetWontCloseBugApp.swift; sourceTree = "<group>"; };
-		BAED80D22991C22E0087EDCC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BAED80D42991C22F0087EDCC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BAED80D72991C22F0087EDCC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BAED80DD2991C22F0087EDCC /* SheetWontCloseBugTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SheetWontCloseBugTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,7 +93,6 @@
 			isa = PBXGroup;
 			children = (
 				BAED80D02991C22E0087EDCC /* SheetWontCloseBugApp.swift */,
-				BAED80D22991C22E0087EDCC /* ContentView.swift */,
 				BAED80D42991C22F0087EDCC /* Assets.xcassets */,
 				BAED80D62991C22F0087EDCC /* Preview Content */,
 			);
@@ -257,7 +254,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BAED80D32991C22E0087EDCC /* ContentView.swift in Sources */,
 				BAED80D12991C22E0087EDCC /* SheetWontCloseBugApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
