@@ -1,10 +1,13 @@
 // there is a bug
-// if you tap "Open Sheet"
-// then tap "Select Day"
-// then tap "Tap to Dismiss"
-// the sheet will not close
-// note that this bug doesn't occur when running in Simulator
-// it will only happen when running on a device.
+//If you run this app on a device (it doesn't happen in the simulator)
+//
+//then tap "Open Sheet"
+//then tap "Select Day"
+//then tap "Tap to Dismiss"
+//the sheet won't close.
+//
+//if you skip the "Select Day" step, or you select a Day, so the menu closes,
+//then the "Tap to Dismiss" works as expected.
 
 import SwiftUI
 
